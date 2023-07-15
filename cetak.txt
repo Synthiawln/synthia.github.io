@@ -1,0 +1,2 @@
+synthia|2|boneka|1|2023-07-09|transfer bank|100000|jogja
+Luthfie|1|uang|1|2023-07-16|transfer bank|100000|jogja
